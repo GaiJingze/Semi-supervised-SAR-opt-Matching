@@ -1,5 +1,3 @@
-# This repository contains the official implementation of the paper "Semi-supervised Multiscale Matching for SAR-Optical Image", submitted to AAAI 2026.
-
 ## 1. Data Preparation: 
 
 Both datasets used in the paper are publicly available:
